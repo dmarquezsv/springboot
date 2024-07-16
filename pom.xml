@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>CRUD_API</groupId>
 	<artifactId>demo-base-de-datos</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<name>App_demo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>

@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: sv.edu.udb.crud.DemoBaseDeDatosApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.87 s -- in sv.edu.udb.crud.DemoBaseDeDatosApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.34 s -- in sv.edu.udb.crud.DemoBaseDeDatosApplicationTests
