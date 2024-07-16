@@ -52,7 +52,7 @@ public class UserService {
             );
         }
 
-        data.put("message","Se guardado con éxito");
+        data.put("message","Se guardado con éxito :)");
         //Actualizar Usuario.
        /* if(user.getId() >0){
             data.put("message","Se actualizó con éxito");
